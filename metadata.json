@@ -1,0 +1,6 @@
+{
+  "name": "PLAYROOM",
+  "description": "Social gaming SaaS platform with competitive brain games, real-time multiplayer rooms, daily challenges, leaderboards, and PLAYROOM PLUS memberships.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
